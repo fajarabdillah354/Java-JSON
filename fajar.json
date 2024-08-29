@@ -1,0 +1,10 @@
+{
+  "age": 23,
+  "married": false,
+  "hobby": {
+    "Sepak Bola": "sepakbola",
+    "Renang": "renang"
+  },
+  "lastname": "ahmad",
+  "firstname": "fajar abdillah"
+}
